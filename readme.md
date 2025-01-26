@@ -5,7 +5,7 @@ A simple, fast and configurable INI parser.
 ## Install
 
 ```sh
-npm install --save ini-simple-parser
+npm install ini-simple-parser
 ```
 
 ## Usage
