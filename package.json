@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/ini-simple-parser",
   "description": "A simple, fast and configurable INI parser.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
